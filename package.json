@@ -86,8 +86,8 @@
     "webpack-cli": "^2.0.15",
     "webpack-dev-server": "^2.11.1"
   },
-  "engines": {
-    "node": ">=6.0.0 <10"
+  "engines": { 
+    "node": ">=6.0.0" 
   },
   "jest": {
     "transform": {
