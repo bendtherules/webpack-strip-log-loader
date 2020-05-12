@@ -1,6 +1,6 @@
 {
   "name": "webpack-strip-log-loader",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Remove log statements from any logging module",
   "license": "MIT",
   "repository": "https://github.com/bendtherules/webpack-strip-log-loader",
